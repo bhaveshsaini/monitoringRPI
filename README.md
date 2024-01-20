@@ -1,4 +1,4 @@
-<b>Script to send an email everytime there's a new connection to your RPI such as SSH, Samba server. </b>
+<b>Script to send an email everytime there's a new connection to your RPI such as SSH or NAS server. </b>
 
 - Update the script.py with the correct values for sender_email, receiver_email, smtp_username(email username), smtp_password(email password).
 
