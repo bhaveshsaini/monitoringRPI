@@ -1,7 +1,7 @@
 <b>Script to send an email everytime there's a new connection to your RPI such as SSH or NAS server. </b>
 
 - Create a file in the same directory as the script named "config.py" with the following values:<br> 
-sender(your email), receiver(your email), username(email), password(email password).
+sender(your email)<br> receiver(your email)<br> username(email)<br> password(email password)
 
 - Run the script using<br>
 *nohup ./tail.sh &*
